@@ -1,6 +1,11 @@
-# choose-tutors
+# Choose proper tutors for math exam
 
-Got top-3 place in the [internal Geekbrains competition](https://www.kaggle.com/competitions/gb-choose-tutors/leaderboard). 
+## Algorithms of data analysis. Classification. 
 
-Geekbrains Algorithms for analyze data. Choose proper tutors for math exam.
+https://www.kaggle.com/c/gb-choose-tutors
 
+In this internal Geekbrains competition we were **not allowed** to use external libraries.
+
+I've made custom logistic regression function with AUC ROC metric, got good result and won top-3 place with **AUC ROC Score = 0.98392** on test data:
+
+<img src="3-rd place.png"  width="800">

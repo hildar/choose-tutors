@@ -8,4 +8,4 @@ In this internal Geekbrains competition we were **not allowed** to use external 
 
 I've made custom logistic regression function with AUC ROC metric, got good result and won top-3 place with **AUC ROC Score = 0.98392** on test data:
 
-<img src="3-rd place.png"  width="800">
+<img src="img/3-rd place.png"  width="800">

@@ -4,9 +4,9 @@
 
 https://www.kaggle.com/c/gb-choose-tutors
 
-In this internal GeekBrains competition we should be make classification model and were **not allowed** to use external libraries.
+In this internal GeekBrains competition we had to make **classification** model and weren't allowed to use external libraries.
 
-I've made custom logistic regression function with AUC ROC metric, got good result and **won top-3** place with **AUC ROC Score = 0.98392** on test data:
+I made the custom **logistic regression** function. I **won top-3** place with a score of **AUC ROC = 0.98392** on test data:
 
 <img src="img/3-rd place.png"  width="800">
 
